@@ -1,0 +1,104 @@
+Welcome to the Calculator Application!
+
+===== Calculator Application =====
+1. Add Numbers
+2. Subtract Numbers
+3. Multiply Numbers
+4. Divide Numbers
+5. Exit
+Enter your choice: 1
+Choose Addition Type:
+1. Two Integers
+2. Two Doubles
+3. Three Integers
+Enter your choice: 1
+Enter first integer: 10
+Enter second integer: 20
+Result: 30
+
+===== Calculator Application =====
+1. Add Numbers
+2. Subtract Numbers
+3. Multiply Numbers
+4. Divide Numbers
+5. Exit
+Enter your choice: 1
+Choose Addition Type:
+1. Two Integers
+2. Two Doubles
+3. Three Integers
+Enter your choice: 2
+Enter first double: 12.5
+Enter second double: 3.7
+Result: 16.2
+
+===== Calculator Application =====
+1. Add Numbers
+2. Subtract Numbers
+3. Multiply Numbers
+4. Divide Numbers
+5. Exit
+Enter your choice: 1
+Choose Addition Type:
+1. Two Integers
+2. Two Doubles
+3. Three Integers
+Enter your choice: 3
+Enter first integer: 5
+Enter second integer: 10
+Enter third integer: 15
+Result: 30
+
+===== Calculator Application =====
+1. Add Numbers
+2. Subtract Numbers
+3. Multiply Numbers
+4. Divide Numbers
+5. Exit
+Enter your choice: 2
+Enter first integer: 50
+Enter second integer: 20
+Result: 30
+
+===== Calculator Application =====
+1. Add Numbers
+2. Subtract Numbers
+3. Multiply Numbers
+4. Divide Numbers
+5. Exit
+Enter your choice: 3
+Enter first double: 4.5
+Enter second double: 2
+Result: 9.0
+
+===== Calculator Application =====
+1. Add Numbers
+2. Subtract Numbers
+3. Multiply Numbers
+4. Divide Numbers
+5. Exit
+Enter your choice: 4
+Enter numerator: 20
+Enter denominator: 4
+Result: 5.0
+
+===== Calculator Application =====
+1. Add Numbers
+2. Subtract Numbers
+3. Multiply Numbers
+4. Divide Numbers
+5. Exit
+Enter your choice: 4
+Enter numerator: 10
+Enter denominator: 0
+Error: Cannot divide by zero!
+Result: 0.0
+
+===== Calculator Application =====
+1. Add Numbers
+2. Subtract Numbers
+3. Multiply Numbers
+4. Divide Numbers
+5. Exit
+Enter your choice: 5
+Exiting... Thank you!
